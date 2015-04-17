@@ -1,5 +1,5 @@
-## avoid repeatign same work of finding inverse of a square matrix
-## functions do
+## avoid repeating same work of finding inverse of a square matrix
+
 
 ## make an object that holds basic operations and data
 
